@@ -1,0 +1,87 @@
+Bienvenido!!
+Solitario de Piramide
+Comandos Disponibles:
+RET - Agarrar carta de la baraja sobrante
+P - Cambiar Carta Esquina
+N/n - Juego Nuevo
+ESC - Salir
+
+
+-------------------------------------------------------------
+
+Puntos ganados: 0
+Vueltas a la baraja disponibles: 3
+Cartas baraja total:24
+Cartas baraja:24
+Cartas Esquina:KEn
+Fila 1:               ADr
+Fila 2:             8Cr 6Cr
+Fila 3:           QDr 7Cr 5Tn
+Fila 4:         6En ATn 5En QEn
+Fila 5:       QCr 8En 3Cr JDr 3Tn
+Fila 6:    KDr 7Dr 5Dr JCr 2Tn 6Tn
+Fila 7:  9En JEn 7En 9Cr 10Dr 7Tn 4Dr
+
+Digite el comando, o la primer fila (1 a 7):
+RET
+
+RET elegida
+
+Digite la fila (1 a 7): 
+RET
+Digite el comando, o la primer fila (1 a 7):
+RET
+
+RET elegida
+
+Digite la fila (1 a 7): 
+7
+Digite la posición de la carta a utilizar:
+0
+
+-------------------------------------------------------------
+
+Puntos ganados: 10
+Vueltas a la baraja disponibles: 3
+Cartas baraja total:23
+Cartas baraja:23
+Cartas Esquina:10En
+Fila 1:               ADr
+Fila 2:             8Cr 6Cr
+Fila 3:           QDr 7Cr 5Tn
+Fila 4:         6En ATn 5En QEn
+Fila 5:       QCr 8En 3Cr JDr 3Tn
+Fila 6:    KDr 7Dr 5Dr JCr 2Tn 6Tn
+Fila 7:  9En JEn 7En 9Cr 10Dr 7Tn 4Dr
+
+Digite el comando, o la primer fila (1 a 7):
+7
+Fila disponible
+
+Digite la posición de la primer carta a utilizar:
+0
+Carta disponible:
+
+Eliga la segunda fila (1 a 7):
+7
+Fila disponible:
+
+Digite la posición de la segunda carta a utilizar:
+6
+
+-------------------------------------------------------------
+
+Puntos ganados: 20
+Vueltas a la baraja disponibles: 3
+Cartas baraja total:23
+Cartas baraja:23
+Cartas Esquina:10En
+Fila 1:               ADr
+Fila 2:             8Cr 6Cr
+Fila 3:           QDr 7Cr 5Tn
+Fila 4:         6En ATn 5En QEn
+Fila 5:       QCr 8En 3Cr JDr 3Tn
+Fila 6:    KDr 7Dr 5Dr JCr 2Tn 6Tn
+Fila 7:      JEn 7En 9Cr 10Dr 7Tn    
+
+Digite el comando, o la primer fila (1 a 7):
